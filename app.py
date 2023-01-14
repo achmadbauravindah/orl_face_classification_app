@@ -9,7 +9,7 @@ import streamlit as st
 import model
 
 st.markdown("<h1 style='text-align:center'>ORL Face Classification</h1>", unsafe_allow_html=True)
-st.markdown("<h4 style='text-align:center'>This Classification Process has built with PCA Concept and Similar Pixel (calculate with distances euclidean or manhattan)</h4>", unsafe_allow_html=True)
+st.markdown("<h4 style='text-align:center'>This Classification Process has built with PCA Concept and Similar Image Pixel (calculate with distances euclidean or manhattan)</h4>", unsafe_allow_html=True)
 st.markdown("<h6 style='text-align:center'>Dataset: <a href='https://paperswithcode.com/dataset/orl'>https://paperswithcode.com/dataset/orl</a></h6>", unsafe_allow_html=True)
 
 st.markdown("<h5 style='text-align:center'>---Take your face and Classify it---</h5>", unsafe_allow_html=True)
