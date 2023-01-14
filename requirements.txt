@@ -1,3 +1,3 @@
 tensorflow==2.9
 numpy==1.23.4
-math==latest
+math==3.11.1
